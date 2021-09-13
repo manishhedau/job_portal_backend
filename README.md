@@ -17,11 +17,11 @@ Only unAuthorized person can see __`job list`__
 ## SetUp
 - First Clone a repository
 - install all the dependancy 
-  ```node
-  npm install
-  ```
+```node
+npm install
+```
 - Run Server
-  ```node
-    npm run dev
-  ```
+```node
+  npm run dev
+```
 
