@@ -2,10 +2,10 @@
 
 
 ## Features -
--Authentication with JWT
--Authorization
--Create User Profile
--update User Profile
--Post Job
--Apply to job
+- Authentication with JWT
+- Authorization
+- Create User Profile
+- update User Profile
+- Post Job
+- Apply to job
 
