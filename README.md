@@ -1,5 +1,5 @@
 # job_portal_backend APIs
-A complete Job Portal Backend with APIs endpoint to provide the user to easily perform `CRUD` operation on server side
+A complete Job Portal Backend with APIs endpoint to provide the user to easily perform `__CRUD__` operation on server side
 
 
 ## Features Of Backend -
